@@ -1,0 +1,1315 @@
+[
+	{
+		"id": "SDKH",
+		"name": "Edifício New Century Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -21.205485,
+			"longitude": -47.810173,
+			"altitude": 2179.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Preto"
+	},
+	{
+		"id": "BR-1349",
+		"name": "Leonardo da Vincí Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.532257,
+			"longitude": -47.465787,
+			"altitude": 2280.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sorocaba"
+	},
+	{
+		"id": "SIDP",
+		"name": "Mega Air Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.49333382,
+			"longitude": -46.55944443,
+			"altitude": 2674.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guarulhos"
+	},
+	{
+		"id": "SIDL",
+		"name": "Deus é Amor Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.55583382,
+			"longitude": -46.62472153,
+			"altitude": 2474.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIDA",
+		"name": "Edifício Dakota Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.59416771,
+			"longitude": -46.68333435,
+			"altitude": 2550.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SDJD",
+		"name": "Juquehy Baleia Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.760268,
+			"longitude": -45.712191,
+			"altitude": 33.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Sebastião"
+	},
+	{
+		"id": "SICT",
+		"name": "Elektro Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.99611092,
+			"longitude": -47.10583115,
+			"altitude": 2041.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas"
+	},
+	{
+		"id": "BR-1331",
+		"name": "Thabor Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.410858,
+			"longitude": -46.670056,
+			"altitude": 3182.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Caieiras"
+	},
+	{
+		"id": "SIBR",
+		"name": "Chacará Recanto Tranquilo Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -20.98194313,
+			"longitude": -47.66944504,
+			"altitude": 2795.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Brodowski"
+	},
+	{
+		"id": "SWND",
+		"name": "Tamboré S/A Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.50972176,
+			"longitude": -46.82583237,
+			"altitude": 2444.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Barueri"
+	},
+	{
+		"id": "SDHY",
+		"name": "Edifício São Gonzaga Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.5567,
+			"longitude": -46.6613,
+			"altitude": 3008.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SJTY",
+		"name": "Gran Meliá Mofarrej Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.56416702,
+			"longitude": -46.6558342,
+			"altitude": 2969.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SDHV",
+		"name": "Hospital Albert Einstein Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.60027885,
+			"longitude": -46.71500015,
+			"altitude": 2828.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIBG",
+		"name": "Banco Induscred Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.56388855,
+			"longitude": -46.65527725,
+			"altitude": 2881.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIBB",
+		"name": "Edifício Comendador Alberto Bonfiglioli Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.56444359,
+			"longitude": -46.65194321,
+			"altitude": 2936.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SDHI",
+		"name": "Hospital Gastroclínica Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.59499931,
+			"longitude": -46.65166855,
+			"altitude": 2566.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SDHF",
+		"name": "Ambroso Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -21.966607,
+			"longitude": -46.75223,
+			"altitude": 2654.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São João da Boa Vista"
+	},
+	{
+		"id": "SDGZ",
+		"name": "Bradesco Cidade de Deus Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.54888916,
+			"longitude": -46.77222061,
+			"altitude": 2529.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Osasco"
+	},
+	{
+		"id": "SDGW",
+		"name": "JKFC Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.58666611,
+			"longitude": -46.67472076,
+			"altitude": 2648.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIAE",
+		"name": "BASF Guaratinguetá Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.786123,
+			"longitude": -45.170825,
+			"altitude": 1772.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaratinguetá"
+	},
+	{
+		"id": "SDGI",
+		"name": "Fazenda Guariroba Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.92277718,
+			"longitude": -46.90694427,
+			"altitude": 2297.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas"
+	},
+	{
+		"id": "SJQJ",
+		"name": "Jomarca II Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.9897213,
+			"longitude": -46.24222183,
+			"altitude": 30.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guarujá"
+	},
+	{
+		"id": "SDEH",
+		"name": "Fazenda Santo Antônio Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.379294,
+			"longitude": -47.32624,
+			"altitude": 2047.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araras"
+	},
+	{
+		"id": "SJQC",
+		"name": "Jequitimar Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.96833229,
+			"longitude": -46.18722153,
+			"altitude": 36.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guarujá"
+	},
+	{
+		"id": "BR-0557",
+		"name": "Basalto Base 6 Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.003931,
+			"longitude": -47.088285,
+			"altitude": 2136.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas"
+	},
+	{
+		"id": "BR-0551",
+		"name": "Pravda Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.497468,
+			"longitude": -46.847212,
+			"altitude": 2736.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Barueri"
+	},
+	{
+		"id": "SJPB",
+		"name": "Guarapiranga Golfe Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.78750038,
+			"longitude": -46.7816658,
+			"altitude": 2487.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SDCQ",
+		"name": "Mediterâneo Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.59305573,
+			"longitude": -46.85277939,
+			"altitude": 2648.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cotia"
+	},
+	{
+		"id": "BR-1193",
+		"name": "Morizono Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.592297,
+			"longitude": -46.68167,
+			"altitude": 2628.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-0533",
+		"name": "Conde Francisco Matarazzo Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.563535,
+			"longitude": -46.652842,
+			"altitude": 3287.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-0530",
+		"name": "S.M.S. Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.689313,
+			"longitude": -45.552664,
+			"altitude": 5646.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campos do Jordão"
+	},
+	{
+		"id": "SDAT",
+		"name": "Hospital e Maternidade Vitória Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.563145,
+			"longitude": -46.561871,
+			"altitude": 2600.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-1165",
+		"name": "Office Premium Indaiatuba Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.095651,
+			"longitude": -47.223294,
+			"altitude": 2073.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Indaiatuba"
+	},
+	{
+		"id": "BR-0519",
+		"name": "Tribuna Square Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.936942,
+			"longitude": -46.321948,
+			"altitude": 236.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santos"
+	},
+	{
+		"id": "BR-0514",
+		"name": "Riviera Portofino Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.998333,
+			"longitude": -46.368333,
+			"altitude": 2897.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Piracaia"
+	},
+	{
+		"id": "BR-1143",
+		"name": "Haras Bella Vista Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.632035,
+			"longitude": -47.843238,
+			"altitude": 1739.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Pedro"
+	},
+	{
+		"id": "BR-0831",
+		"name": "Pátio Victor Malzoni Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.586584,
+			"longitude": -46.681885,
+			"altitude": 2720.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-1116",
+		"name": "Eurofarma Laboratórios S.A. Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.518732,
+			"longitude": -46.960732,
+			"altitude": 2769.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapevi"
+	},
+	{
+		"id": "BR-0019",
+		"name": "Fazenda Boa Vista Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.361168,
+			"longitude": -47.568752,
+			"altitude": 1877.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Porto Feliz"
+	},
+	{
+		"id": "BR-0370",
+		"name": "(duplicate) Francisco Mellão Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": 0.01,
+			"longitude": -0.01,
+			"altitude": 2635.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SSVZ",
+		"name": "Autovias Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -21.163333,
+			"longitude": -47.754722,
+			"altitude": 1804.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Preto"
+	},
+	{
+		"id": "SSVS",
+		"name": "Zezé Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.128289,
+			"longitude": -47.003283,
+			"altitude": 2480.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jundiaí"
+	},
+	{
+		"id": "BR-0355",
+		"name": "Helinorte",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.415,
+			"longitude": -46.580555,
+			"altitude": 2605.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SJCR",
+		"name": "Forum Trabalhista de 1ª Instância de São Paulo II Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.52222252,
+			"longitude": -46.66166687,
+			"altitude": 2619.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-1433",
+		"name": "Aqualina Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.079875,
+			"longitude": -46.575938,
+			"altitude": 2657.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Atibaia"
+	},
+	{
+		"id": "SSUF",
+		"name": "Rede D'Or São Luiz Anália Franco Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.54891,
+			"longitude": -46.558315,
+			"altitude": 2694.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SD6M",
+		"name": "Parque da Cidade Torre B1",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.625,
+			"longitude": -46.705,
+			"altitude": 2746.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SJBJ",
+		"name": "Guancan Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.613051,
+			"longitude": -46.851491,
+			"altitude": 2690.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cotia"
+	},
+	{
+		"id": "SJBE",
+		"name": "Ortosíntese Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.438866,
+			"longitude": -46.724435,
+			"altitude": 2743.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SNZJ",
+		"name": "Edifício América Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -21.80497,
+			"longitude": -48.173643,
+			"altitude": 2260.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araraquara"
+	},
+	{
+		"id": "BR-1418",
+		"name": "Parque Empresarial Campinas  Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.839057,
+			"longitude": -47.034692,
+			"altitude": 2152.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas"
+	},
+	{
+		"id": "SJAN",
+		"name": "Grupo Santander Banespa - Panamericana Park Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.653713,
+			"longitude": -46.725186,
+			"altitude": 2405.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-0686",
+		"name": "Hyundai Piracicaba Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.682877,
+			"longitude": -47.602869,
+			"altitude": 1942.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Brasília"
+	},
+	{
+		"id": "BR-1409",
+		"name": "Velo Città Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.285185,
+			"longitude": -46.85111,
+			"altitude": 2369.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mogi Guaçu"
+	},
+	{
+		"id": "SSRP",
+		"name": "Vitrotec Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.20000076,
+			"longitude": -46.78333282,
+			"altitude": 2559.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campo Limpo Paulista"
+	},
+	{
+		"id": "SD3T",
+		"name": "Trimais Center Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.478589,
+			"longitude": -46.610173,
+			"altitude": 2785.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-0662",
+		"name": "Limão Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.505556,
+			"longitude": -46.680556,
+			"altitude": 2431.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIZY",
+		"name": "IMOCOP Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.695981,
+			"longitude": -47.561842,
+			"altitude": 1775.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Piracicaba"
+	},
+	{
+		"id": "SIZP",
+		"name": "Fazenda Sant`Anna da Grama Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.05611038,
+			"longitude": -47.07916641,
+			"altitude": 2188.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itupeva"
+	},
+	{
+		"id": "SIZJ",
+		"name": "Fazenda Santa Zélia Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -20.9794445,
+			"longitude": -48.44722366,
+			"altitude": 1870.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bebedouro"
+	},
+	{
+		"id": "SNRI",
+		"name": "Riviera de São Lourenço Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.79777718,
+			"longitude": -46.05583191,
+			"altitude": 23.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bertioga"
+	},
+	{
+		"id": "SIXN",
+		"name": "Soufer Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.97611046,
+			"longitude": -47.10111237,
+			"altitude": 2155.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas"
+	},
+	{
+		"id": "SNQY",
+		"name": "Colina Verde Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -21.2294445,
+			"longitude": -47.79527664,
+			"altitude": 2173.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Preto"
+	},
+	{
+		"id": "SNQC",
+		"name": "IGESP Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.561111,
+			"longitude": -46.650833,
+			"altitude": 2890.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-0956",
+		"name": "Pedreira Maria Teresa LTDA Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.925377,
+			"longitude": -46.461677,
+			"altitude": 177.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Vicente"
+	},
+	{
+		"id": "SIVI",
+		"name": "Monte Sinai Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.91273,
+			"longitude": -47.064126,
+			"altitude": 2405.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas"
+	},
+	{
+		"id": "SNOR",
+		"name": "Fazenda Sesmaria Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.59694481,
+			"longitude": -46.85361099,
+			"altitude": 2280.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Amparo"
+	},
+	{
+		"id": "BR-0943",
+		"name": "VOCP Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.594503,
+			"longitude": -46.688983,
+			"altitude": 2661.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIUN",
+		"name": "Uniban II Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.64500046,
+			"longitude": -46.58000183,
+			"altitude": 2429.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Bernardo Do Campo"
+	},
+	{
+		"id": "BR-1225",
+		"name": "Represa Avaré Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.201865,
+			"longitude": -48.984706,
+			"altitude": 1877.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Avaré"
+	},
+	{
+		"id": "BR-0497",
+		"name": "Hospital Estadual Mário Covas Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.670723,
+			"longitude": -46.532967,
+			"altitude": 2648.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santo André"
+	},
+	{
+		"id": "BR-0490",
+		"name": "Edifício Prime Business Center Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -20.536099,
+			"longitude": -47.389709,
+			"altitude": 3340.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Franca"
+	},
+	{
+		"id": "SDXS",
+		"name": "Mar Gírios Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.59416771,
+			"longitude": -46.70583344,
+			"altitude": 2592.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIPX",
+		"name": "Gramado Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.907754,
+			"longitude": -47.004265,
+			"altitude": 2395.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas"
+	},
+	{
+		"id": "SDVW",
+		"name": "Volkswagem do Brasil - Fábrica III Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.06055641,
+			"longitude": -45.63388824,
+			"altitude": 1873.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Taubaté"
+	},
+	{
+		"id": "SIOY",
+		"name": "Caravelas Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.76833344,
+			"longitude": -45.92722321,
+			"altitude": 41.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bertioga"
+	},
+	{
+		"id": "SIOX",
+		"name": "Centro de Distribuição Ponto Frio Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.42916679,
+			"longitude": -46.40555573,
+			"altitude": 2540.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guarulhos"
+	},
+	{
+		"id": "SDVB",
+		"name": "INA Brasil Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.43777847,
+			"longitude": -47.4141655,
+			"altitude": 2072.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sorocaba"
+	},
+	{
+		"id": "BR-1096",
+		"name": "Condomínio Vitassay Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.307498,
+			"longitude": -47.663959,
+			"altitude": 2057.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Boituva"
+	},
+	{
+		"id": "BR-1091",
+		"name": "EZ Towers B Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.627196,
+			"longitude": -46.701829,
+			"altitude": 2844.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SWZX",
+		"name": "Opto Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.00083351,
+			"longitude": -47.91638947,
+			"altitude": 2695.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Carlos"
+	},
+	{
+		"id": "SINI",
+		"name": "Baua`s Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.20138931,
+			"longitude": -48.98777771,
+			"altitude": 1149.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Avaré"
+	},
+	{
+		"id": "SINB",
+		"name": "Tubarão Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.829445,
+			"longitude": -45.388611,
+			"altitude": 10.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ilhabela"
+	},
+	{
+		"id": "SDSG",
+		"name": "Fazenda Nossa Senhora da Conceição Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.75250053,
+			"longitude": -48.52111053,
+			"altitude": 2231.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Manuel"
+	},
+	{
+		"id": "SIKF",
+		"name": "Plaza Iguatemi Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.576687,
+			"longitude": -46.686659,
+			"altitude": 2722.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIKD",
+		"name": "SODEPA Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.573529,
+			"longitude": -46.70449,
+			"altitude": 2402.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SNDM",
+		"name": "Karina Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.4404,
+			"longitude": -46.4352,
+			"altitude": 2532.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guarulhos"
+	},
+	{
+		"id": "SDPS",
+		"name": "Pedreira Sargon Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.35638809,
+			"longitude": -46.27999878,
+			"altitude": 2631.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Isabel"
+	},
+	{
+		"id": "SIJD",
+		"name": "João Dias Helipad",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.643649,
+			"longitude": -46.717826,
+			"altitude": 2533.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIIP",
+		"name": "Quinta da Baroneza I Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.977222,
+			"longitude": -46.703888,
+			"altitude": 2487.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bragança Paulista"
+	},
+	{
+		"id": "BR-1033",
+		"name": "Quimigel Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.964815,
+			"longitude": -47.320637,
+			"altitude": 1808.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Monte Mor"
+	},
+	{
+		"id": "SIIH",
+		"name": "Torre 2000 Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.566623,
+			"longitude": -46.686423,
+			"altitude": 2730.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "BR-0743",
+		"name": "Aurora Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -22.486438,
+			"longitude": -46.988257,
+			"altitude": 2165.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Moji-Mirim"
+	},
+	{
+		"id": "SDOC",
+		"name": "Hospital do Coração Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.57305527,
+			"longitude": -46.64305496,
+			"altitude": 2825.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIHK",
+		"name": "Hospital Santa Catarina Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.569052,
+			"longitude": -46.645632,
+			"altitude": 2864.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SIHE",
+		"name": "Mendes Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.959793,
+			"longitude": -46.335644,
+			"altitude": 52.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santos"
+	},
+	{
+		"id": "SJZL",
+		"name": "Daslu Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.59250069,
+			"longitude": -46.69138718,
+			"altitude": 2451.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	},
+	{
+		"id": "SDNB",
+		"name": "Nobara - Guarujá Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.99944305,
+			"longitude": -46.29805756,
+			"altitude": 10.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guarujá"
+	},
+	{
+		"id": "SIGC",
+		"name": "Porto Cubatão Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -24.97527885,
+			"longitude": -47.94472122,
+			"altitude": 23.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cananéia"
+	},
+	{
+		"id": "SJXQ",
+		"name": "Ribeirão Shopping Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -21.21176,
+			"longitude": -47.818122,
+			"altitude": 2037.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Preto"
+	},
+	{
+		"id": "SJXP",
+		"name": "Alice Maria Sampaio Ferreira Heliport",
+		"type": "UTM_PORT",
+		"position": {
+			"latitude": -23.611173,
+			"longitude": -46.694571,
+			"altitude": 2579.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo"
+	}
+]

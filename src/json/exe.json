@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"name": "exe-1",
+	"speed": "10",
+	"plan_type": "SIMPLE",
+	"entities_distribution": "NORMAL",
+	"number_aircrafts": "100",
+	"number_hellicopters": "20",
+	"number_uas": "500",
+	"continent": "NA",
+	"central_lat": -23.563350340256694,
+	"central_long": -46.63079920174874,
+	"state": "BR-SP"
+}

@@ -1,0 +1,45 @@
+.grid {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+  width: 600px;
+  background-color: #fff;
+  padding: 5px;
+  max-height: 95vh;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.info {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.clock {
+  background-color: #09768d;
+  border-radius: 8px;
+}
+
+.clock h2 {
+  color: #fff;
+}
+
+.rpas-flight {
+  border: 1px solid #85bcc7;
+  padding: 5px;
+  max-height: 400px;
+  width: 400px;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.rpas-table {
+  /* background-color: #e0f0f4; */
+}

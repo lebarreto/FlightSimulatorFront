@@ -1,0 +1,5224 @@
+[
+	{
+		"id": "SDLC",
+		"name": "Lucélia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.74939919,
+			"longitude": -51.0182991,
+			"altitude": 1476.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Lucélia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJWX",
+		"name": "Rio Alegre Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.57500076,
+			"longitude": -52.50305557,
+			"altitude": 981.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Euclides Da Cunha Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0703",
+		"name": "Pachu Aviação Agrícola Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.705979,
+			"longitude": -49.051299,
+			"altitude": 1778.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Olímpia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIEC",
+		"name": "Fazenda Anhumas II Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.04249954,
+			"longitude": -52.29138947,
+			"altitude": 955.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Presidente Eptácio",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKQ",
+		"name": "Fazenda São João Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.21666718,
+			"longitude": -49.06666565,
+			"altitude": 1673.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaraci",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKP",
+		"name": "Fazenda Jamaica Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.18972206,
+			"longitude": -50.2788887,
+			"altitude": 1611.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pompéia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJWQ",
+		"name": "Aeroclube de Birigui - CMTE Munir Djabak Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.21655,
+			"longitude": -50.305613,
+			"altitude": 1338.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Birigui",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIEA",
+		"name": "Fazenda Ibiporã Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.466359,
+			"longitude": -50.79856,
+			"altitude": 1181.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guararapes",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKO",
+		"name": "Fazenda Campo Grande Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.25769997,
+			"longitude": -48.78860092,
+			"altitude": 1830.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Colômbia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKN",
+		"name": "Fazenda e Haras Bela Vista Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.43805695,
+			"longitude": -48.40555573,
+			"altitude": 2339.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mineiros Do Tietê",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJWN",
+		"name": "Fazenda Santa Dulcina Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.54999924,
+			"longitude": -49.25,
+			"altitude": 2096.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Taquarituba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKK",
+		"name": "Mococa Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.4878006,
+			"longitude": -47.03440094,
+			"altitude": 2116.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mococa",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKG",
+		"name": "Fazenda Gávea Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.225,
+			"longitude": -49.179169,
+			"altitude": 2031.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cerqueira César",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKC",
+		"name": "Fazenda Eldorado Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.30361176,
+			"longitude": -49.46222305,
+			"altitude": 1771.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Gália",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDKB",
+		"name": "Casa Branca Municipal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.788055,
+			"longitude": -47.055557,
+			"altitude": 2346.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Casa Branca",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIDN",
+		"name": "Fazenda Ipanema Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.42555618,
+			"longitude": -47.58139038,
+			"altitude": 1985.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Iperó",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJZ",
+		"name": "Fazenda Barra do Agudo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.810328,
+			"longitude": -48.222595,
+			"altitude": 1608.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Morro Agudo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJV",
+		"name": "São João da Boa Vista Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.01722145,
+			"longitude": -46.84083176,
+			"altitude": 2500.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São João Da Boa Vista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJR",
+		"name": "Fazenda Santa Inês Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.88249969,
+			"longitude": -49.39250183,
+			"altitude": 1804.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São José Do Rio Preto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJQ",
+		"name": "Fazenda São Joaquim O.B. Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.82839966,
+			"longitude": -51.00799942,
+			"altitude": 1276.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pereira Barreto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJO",
+		"name": "São Joaquim da Barra Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.59329987,
+			"longitude": -47.84220123,
+			"altitude": 2136.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Joaquim Da Barra",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJN",
+		"name": "Fazenda São Luiz Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.10055542,
+			"longitude": -47.75055695,
+			"altitude": 1772.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jardinópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJL",
+		"name": "Jales Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.29299927,
+			"longitude": -50.54639816,
+			"altitude": 1496.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jales",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJG",
+		"name": "Fazenda Ponte Preta Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.73333359,
+			"longitude": -49.48333359,
+			"altitude": 1689.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Cruz Do Rio Pardo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJF",
+		"name": "Fazenda Jequitibá Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.84527779,
+			"longitude": -48.44805527,
+			"altitude": 2310.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Buri",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJC",
+		"name": "Jaboticabal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.22999954,
+			"longitude": -48.28469849,
+			"altitude": 2024.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jaboticabal",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJVC",
+		"name": "Ibiporanga da Felicidade Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.45916748,
+			"longitude": -49.5336113,
+			"altitude": 1779.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tanabi",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDJA",
+		"name": "Doutor José Augusto de Arruda Botelho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.19472,
+			"longitude": -47.86167,
+			"altitude": 2569.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itirapina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SICN",
+		"name": "Fazenda Vista Bonita Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.50333214,
+			"longitude": -51.81277847,
+			"altitude": 1348.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sandovalina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIZ",
+		"name": "Fazenda São Paulo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.155555,
+			"longitude": -49.934723,
+			"altitude": 1656.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cardoso",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIV",
+		"name": "Ituverava Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.37549973,
+			"longitude": -47.76869965,
+			"altitude": 2044.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ituverava",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIU",
+		"name": "Itu Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.349722,
+			"longitude": -47.327778,
+			"altitude": 2231.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itu",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIP",
+		"name": "Fazenda Centro de Vôo a Vela Ipuã Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.04333305,
+			"longitude": -45.77555466,
+			"altitude": 1913.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Caçapava",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIO",
+		"name": "Aeroclube de Itápolis Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.59972191,
+			"longitude": -48.83277893,
+			"altitude": 1739.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itápolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIM",
+		"name": "Itanhaém Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.164722,
+			"longitude": -46.785557,
+			"altitude": 13.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itanhaém",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJUL",
+		"name": "Fazenda Rio Pardo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.8777771,
+			"longitude": -49.03777695,
+			"altitude": 2257.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Iaras",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIH",
+		"name": "Fazenda Irohy Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.56555557,
+			"longitude": -46.06944275,
+			"altitude": 2467.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Biritiba-Mirim",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIBX",
+		"name": "Rosana Camargo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.09111023,
+			"longitude": -50.24333191,
+			"altitude": 1345.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Buritama",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIG",
+		"name": "Ibitinga Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.74729919,
+			"longitude": -48.85570145,
+			"altitude": 1780.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ibitinga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDID",
+		"name": "Itararé Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.1352787,
+			"longitude": -49.32833481,
+			"altitude": 2598.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itararé",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDIB",
+		"name": "Irmãos Ribeiro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.15810013,
+			"longitude": -46.77529907,
+			"altitude": 3018.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Espírito Santo Do Pinhal",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIBN",
+		"name": "Fazenda Canaã Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.07138824,
+			"longitude": -49.43249893,
+			"altitude": 2021.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Piraju",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIBF",
+		"name": "Bunge Fertilizantes Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.71916771,
+			"longitude": -48.11861038,
+			"altitude": 249.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cajati",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJTM",
+		"name": "Santa Cecília Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.88777733,
+			"longitude": -50.98833466,
+			"altitude": 1260.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mirandópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJTK",
+		"name": "Ecofly Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.29694366,
+			"longitude": -48.1202774,
+			"altitude": 2129.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Brotas",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIAY",
+		"name": "Auriflama Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.74194336,
+			"longitude": -50.5316658,
+			"altitude": 1277.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Auriflama",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0595",
+		"name": "Fazenda Romário Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.278236,
+			"longitude": -50.006037,
+			"altitude": 1283.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Barbosa",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDHE",
+		"name": "Fazenda Herdade Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.49250031,
+			"longitude": -46.84361267,
+			"altitude": 2494.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapira",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDHC",
+		"name": "Fazenda Koga Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.87194443,
+			"longitude": -49.98027802,
+			"altitude": 1292.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Getulina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJTC",
+		"name": "Bauru/Arealva–Moussa Nakhal Tobias State Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.160755,
+			"longitude": -49.070325,
+			"altitude": 1962.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bauru",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SIAR",
+		"name": "Fazenda Bom Retiro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.799168,
+			"longitude": -50.046112,
+			"altitude": 1617.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ibirarema",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1316",
+		"name": "Fazenda Bartira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.164531,
+			"longitude": -50.964731,
+			"altitude": 1552.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rancharia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJTA",
+		"name": "Cristal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.18166733,
+			"longitude": -50.49250031,
+			"altitude": 1355.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Borá",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1315",
+		"name": "Represa Fazenda Capão da Cruz Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.429813,
+			"longitude": -47.901572,
+			"altitude": 1886.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guatapará",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWMC",
+		"name": "Capão da Cruz Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.45833206,
+			"longitude": -47.88777924,
+			"altitude": 1936.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Luís Antônio",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIAM",
+		"name": "Fazenda Palmital Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.697327,
+			"longitude": -48.286419,
+			"altitude": 1709.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Morro Agudo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDGY",
+		"name": "Fazenda Anhangaí Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.92749977,
+			"longitude": -50.74333191,
+			"altitude": 1181.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araçatuba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDGU",
+		"name": "Usina Bonfim Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.40444374,
+			"longitude": -48.30333328,
+			"altitude": 2116.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guariba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDGT",
+		"name": "Fazenda Cristal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.525001,
+			"longitude": -50.045832,
+			"altitude": 1895.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campos Novos Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWLY",
+		"name": "Chácara MCL Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.880883,
+			"longitude": -51.356143,
+			"altitude": 1345.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Andradina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDGR",
+		"name": "Guararapes Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.2630558,
+			"longitude": -50.6530571,
+			"altitude": 1312.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guararapes",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBTA",
+		"name": "Base de Aviação de Taubaté",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.0401,
+			"longitude": -45.51615,
+			"altitude": 1902.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Taubaté",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SDGP",
+		"name": "Hotel Fazenda Capricho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.221801,
+			"longitude": -48.790794,
+			"altitude": 2099.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Avaré",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDGK",
+		"name": "Fazenda Gurucaia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.494602,
+			"longitude": -50.735522,
+			"altitude": 1345.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guararapes",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDGJ",
+		"name": "Fazenda Suíssa Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.907315,
+			"longitude": -49.85664,
+			"altitude": 1748.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaimbê",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBST",
+		"name": "Base Aérea de Santos",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.928192,
+			"longitude": -46.300195,
+			"altitude": 13.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guarujá",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SBSR",
+		"name": "Prof. Eribelto Manoel Reino State Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.8166008,
+			"longitude": -49.40650177,
+			"altitude": 1784.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São José Do Rio Preto",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SDGC",
+		"name": "Garça Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.18359947,
+			"longitude": -49.65610123,
+			"altitude": 2182.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Garça",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDGB",
+		"name": "Usina Colorado Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.27694321,
+			"longitude": -48.1819458,
+			"altitude": 1988.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaíra",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1307",
+		"name": "Bugio Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.849179,
+			"longitude": -50.732591,
+			"altitude": 1175.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pedrinhas Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBSP",
+		"name": "Congonhas Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.62611008,
+			"longitude": -46.65638733,
+			"altitude": 2631.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo",
+		"size": "large_airport"
+	},
+	{
+		"id": "BR-1305",
+		"name": "Fazenda São Clemente Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.118831,
+			"longitude": -45.851006,
+			"altitude": 1827.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São José dos Campos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBSJ",
+		"name": "Professor Urbano Ernesto Stumpf Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.22920036,
+			"longitude": -45.86149979,
+			"altitude": 2120.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São José Dos Campos",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SDFU",
+		"name": "Fazenda Ponte Funda Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.87055588,
+			"longitude": -52.16305542,
+			"altitude": 984.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Presidente Eptácio",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFT",
+		"name": "Virgulino de Oliveira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.41444397,
+			"longitude": -46.80888748,
+			"altitude": 2152.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapira",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWKY",
+		"name": "Fazenda Recanto da Cachoeira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.33972168,
+			"longitude": -47.47305679,
+			"altitude": 3064.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cristais Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJRS",
+		"name": "Fazenda Guanabara Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.34361076,
+			"longitude": -51.40333176,
+			"altitude": 1017.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Junqueirópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFN",
+		"name": "Fazenda São Francisco Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.474781,
+			"longitude": -49.546308,
+			"altitude": 1703.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Fartura",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJRO",
+		"name": "Fazenda Santa Elisa Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.53055573,
+			"longitude": -50.63499832,
+			"altitude": 1312.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Auriflama",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFM",
+		"name": "Fazenda Santa Maria Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.28888893,
+			"longitude": -52.25583267,
+			"altitude": 1083.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Teodoro Sampaio",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFL",
+		"name": "Fazenda Santa Albana Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.580552,
+			"longitude": -48.282217,
+			"altitude": 2051.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapetininga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFK",
+		"name": "Fazenda Figueira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.06888962,
+			"longitude": -52.15888977,
+			"altitude": 1234.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Marabá Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFH",
+		"name": "Fazenda Amália Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.44400024,
+			"longitude": -47.3708992,
+			"altitude": 2318.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Rosa Do Viterbo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFF",
+		"name": "Fazenda Fittipaldi Citrus Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.854445,
+			"longitude": -48.295832,
+			"altitude": 1673.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araraquara",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFD",
+		"name": "Fernandópolis - Coronel Aviador Carlos Orleans Guimarães Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.27659988,
+			"longitude": -50.21559906,
+			"altitude": 1640.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Fernandópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFC",
+		"name": "Fazenda Constância Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.48859978,
+			"longitude": -49.18809891,
+			"altitude": 1673.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Altair",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDFB",
+		"name": "Fazenda Brumado Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.428899,
+			"longitude": -48.562077,
+			"altitude": 1755.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Barretos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBRP",
+		"name": "Leite Lopes Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.13638878,
+			"longitude": -47.77666855,
+			"altitude": 1806.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Preto",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SDFA",
+		"name": "Fazenda Bonança Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.676399,
+			"longitude": -51.0308,
+			"altitude": 1200.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pereira Barreto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJQV",
+		"name": "Usina Santa Luiza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.50916672,
+			"longitude": -48.19722366,
+			"altitude": 1978.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Motuca",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDET",
+		"name": "Tietê Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.10472107,
+			"longitude": -47.72444534,
+			"altitude": 1644.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tietê",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDES",
+		"name": "Estância Colorado Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.761969,
+			"longitude": -47.862237,
+			"altitude": 2372.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sales De Oliveira",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDER",
+		"name": "Fazenda Entre Rios Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.76499939,
+			"longitude": -50.85694504,
+			"altitude": 1207.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sud Menucci",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJQR",
+		"name": "Jacarezinho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.14805603,
+			"longitude": -50.9011116,
+			"altitude": 1312.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Valparaíso",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDEP",
+		"name": "Geraldo Moacir Bordon State Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.774665,
+			"longitude": -52.143281,
+			"altitude": 974.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Presidente Epitácio",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDEO",
+		"name": "Fazenda Entre Rios Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.87859917,
+			"longitude": -48.65940094,
+			"altitude": 1709.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ibitinga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDEM",
+		"name": "Estância Machado Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.10111046,
+			"longitude": -51.45166779,
+			"altitude": 1388.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Álvares Machado",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDEJ",
+		"name": "Fazenda Guará do Pinhal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.66583252,
+			"longitude": -48.07361221,
+			"altitude": 2036.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapetininga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDEG",
+		"name": "Fazenda Nova Califórnia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.4667,
+			"longitude": -51.200804,
+			"altitude": 1450.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Martinópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDED",
+		"name": "EDRA do Brasil Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.4402771,
+			"longitude": -47.70166779,
+			"altitude": 2008.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ipeúna",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDX",
+		"name": "Fazenda Paiquerê Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -19.8880558,
+			"longitude": -50.51416779,
+			"altitude": 1483.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Populina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDV",
+		"name": "Usina Catanduva Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.12689972,
+			"longitude": -48.84469986,
+			"altitude": 1860.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Palmares Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDR",
+		"name": "Dracena Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.46050072,
+			"longitude": -51.60689926,
+			"altitude": 1220.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Dracena",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDN",
+		"name": "Andradina - Paulino Ribeiro de Andrade Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.92499924,
+			"longitude": -51.38199997,
+			"altitude": 1247.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Andradina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDL",
+		"name": "Fazenda Dois Lagos Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.307501,
+			"longitude": -47.933887,
+			"altitude": 1916.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tatuí",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDK",
+		"name": "Saint-Exupéry Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.48277855,
+			"longitude": -49.98389053,
+			"altitude": 1886.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ocauçu",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDJ",
+		"name": "Fazenda Santa Maria Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.84889984,
+			"longitude": -50.07939911,
+			"altitude": 1525.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Monções",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDI",
+		"name": "Fazenda Tamara Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.592561,
+			"longitude": -50.833217,
+			"altitude": 2093.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Salmourão",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDDB",
+		"name": "Paradiso Agropecuária Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.617649,
+			"longitude": -50.09019,
+			"altitude": 1703.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campos Novos Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDCW",
+		"name": "Fazenda Paloma Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.32611084,
+			"longitude": -48.82833481,
+			"altitude": 1706.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Colômbia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJOW",
+		"name": "Fazenda Guadalupe Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.98166656,
+			"longitude": -50.52694321,
+			"altitude": 1188.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santo Antônio Do Aracanguá",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDCT",
+		"name": "Fazenda Santo Antonio do Oriçanga Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.232574,
+			"longitude": -46.969278,
+			"altitude": 2237.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Estiva Gerbi",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDCR",
+		"name": "Fazenda Caiçara Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.07111168,
+			"longitude": -46.82944489,
+			"altitude": 36.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itanhaém",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWHU",
+		"name": "Fazenda Izaura - Usina Cocal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.506667,
+			"longitude": -50.865278,
+			"altitude": 1542.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Racharia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDCO",
+		"name": "Sorocaba Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.478001,
+			"longitude": -47.490002,
+			"altitude": 2077.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sorocaba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDCL",
+		"name": "Fazenda Campo Alegre Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.15416718,
+			"longitude": -49.20888901,
+			"altitude": 2182.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cerqueira César",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0545",
+		"name": "Clube de Voo Fazenda Novo Horizonte Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.173337,
+			"longitude": -47.41136,
+			"altitude": 1768.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itu",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDCD",
+		"name": "Catanduva Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.14920044,
+			"longitude": -48.98870087,
+			"altitude": 1841.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Catanduva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDCA",
+		"name": "Capão Bonito Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.034346,
+			"longitude": -48.356246,
+			"altitude": 2402.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Capão Bonito",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDBY",
+		"name": "Bariri - Aparecido O. Silva Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.06920052,
+			"longitude": -48.70640182,
+			"altitude": 1594.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bariri",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDBV",
+		"name": "Balneário São Januário Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.87083244,
+			"longitude": -47.7583313,
+			"altitude": 26.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ilha Comprida",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDBN",
+		"name": "Fazenda Bonanza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.68611145,
+			"longitude": -47.55749893,
+			"altitude": 2316.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Salto De Pirapora",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDBK",
+		"name": "Botucatu - Tancredo de Almeida Neves Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.939501,
+			"longitude": -48.467999,
+			"altitude": 3012.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Botucatu",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0534",
+		"name": "Vitalli Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.519974,
+			"longitude": -49.999379,
+			"altitude": 1486.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Avanhandava",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDBB",
+		"name": "Bebedouro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.90040016,
+			"longitude": -48.47330093,
+			"altitude": 1942.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bebedouro",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDBA",
+		"name": "Batatais Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.87722206,
+			"longitude": -47.58555603,
+			"altitude": 2890.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Batatais",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAY",
+		"name": "Fazenda Altair Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.467199,
+			"longitude": -48.367199,
+			"altitude": 2034.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Ernestina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAS",
+		"name": "Fazenda Santo Antônio Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.276203,
+			"longitude": -51.283088,
+			"altitude": 1141.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mirandópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAN",
+		"name": "Fazenda Santo Ângelo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.24555588,
+			"longitude": -48.25777817,
+			"altitude": 1680.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Brotas",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAM",
+		"name": "Amarais Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.85919952,
+			"longitude": -47.10820007,
+			"altitude": 2008.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAI",
+		"name": "Americana Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.75580025,
+			"longitude": -47.26940155,
+			"altitude": 2085.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Americana",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0886",
+		"name": "Tom Aviação Agrícola Ltda. Airstrip",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.621,
+			"longitude": -48.794454,
+			"altitude": 1716.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itápolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAF",
+		"name": "Fazenda Palmeiras Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.15670013,
+			"longitude": -47.71929932,
+			"altitude": 2762.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Analândia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBMT",
+		"name": "Campo de Marte Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.50909996,
+			"longitude": -46.63779831,
+			"altitude": 2368.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SDAE",
+		"name": "São Pedro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.58361053,
+			"longitude": -47.89611053,
+			"altitude": 1858.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Pedro",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAD",
+		"name": "Everaldo Moras Barreto Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.69479942,
+			"longitude": -51.09730148,
+			"altitude": 1394.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Adamantina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDAA",
+		"name": "Araras Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.338227,
+			"longitude": -47.357898,
+			"altitude": 2247.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araras",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBML",
+		"name": "Frank Miloye Milenkowichi–Marília State Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.19689941,
+			"longitude": -49.92639923,
+			"altitude": 2122.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Marília",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SBLN",
+		"name": "Lins Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.66399956,
+			"longitude": -49.73049927,
+			"altitude": 1559.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Lins",
+		"size": "medium_airport"
+	},
+	{
+		"id": "BR-1156",
+		"name": "Fazenda Buriti Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.480036,
+			"longitude": -50.187631,
+			"altitude": 1398.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Valentim Gentil",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1154",
+		"name": "Fazenda Nova Aliança Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.328552,
+			"longitude": -50.192936,
+			"altitude": 1352.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Glicério",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWDG",
+		"name": "Fazenda São José Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.744444,
+			"longitude": -49.164722,
+			"altitude": 1509.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Reginópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBKP",
+		"name": "Viracopos International Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.00740051,
+			"longitude": -47.1344986,
+			"altitude": 2170.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Campinas",
+		"size": "medium_airport"
+	},
+	{
+		"id": "BR-0062",
+		"name": "Banaer Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.419166,
+			"longitude": -47.869166,
+			"altitude": 98.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sete Barras",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1149",
+		"name": "Aeroclube Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.281944,
+			"longitude": -50.326942,
+			"altitude": 1394.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Birigui",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0850",
+		"name": "Ecovias Imigrantes Heliport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.784505,
+			"longitude": -46.596576,
+			"altitude": 2526.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Bernardo do Campo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBJH",
+		"name": "São Paulo Catarina Executive Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.426886,
+			"longitude": -47.165658,
+			"altitude": 2549.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Roque",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SBJD",
+		"name": "Comte. Rolim Adolfo Amaro–Jundiaí State Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.180369,
+			"longitude": -46.944408,
+			"altitude": 2484.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jundiaí",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1497",
+		"name": "Fazenda Caturama Airstrip",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.114963,
+			"longitude": -50.039613,
+			"altitude": 1476.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Zacarias",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0843",
+		"name": "Pagador Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.183798,
+			"longitude": -51.474657,
+			"altitude": 1207.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Presidente Prudente",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1129",
+		"name": "Sítio São Jorge Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.942989,
+			"longitude": -48.943656,
+			"altitude": 2182.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapeva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSZT",
+		"name": "Fazenda São João Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.79416656,
+			"longitude": -49.34111023,
+			"altitude": 2146.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Águas De Santa Bárbara",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWAM",
+		"name": "Fazenda Agropecuária Gomes Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.64966,
+			"longitude": -49.151692,
+			"altitude": 2165.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Taquarituba",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0829",
+		"name": "Joca Viol Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.282048,
+			"longitude": -50.412825,
+			"altitude": 1467.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Birigui",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBGW",
+		"name": "Guaratinguetá Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.79159927,
+			"longitude": -45.20479965,
+			"altitude": 1761.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaratinguetá",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SBGR",
+		"name": "Guarulhos - Governador André Franco Montoro International Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.43555641,
+			"longitude": -46.47305679,
+			"altitude": 2459.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo",
+		"size": "large_airport"
+	},
+	{
+		"id": "SBGP",
+		"name": "EMBRAER - Unidade Gavião Peixoto Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.77370071,
+			"longitude": -48.40510178,
+			"altitude": 1998.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Gavião Peixoto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJFQ",
+		"name": "Fazenda Quatrirmãs Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.949012,
+			"longitude": -48.664874,
+			"altitude": 2441.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itatinga",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1460",
+		"name": "Pilar do Sul Airstrip",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.83405,
+			"longitude": -47.71938,
+			"altitude": 2480.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pilar do Sul",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJFF",
+		"name": "Frigo Estrela Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.294722,
+			"longitude": -50.41055,
+			"altitude": 1595.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Estrela D`Oeste",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJEY",
+		"name": "Fazenda Agronet Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -19.99055672,
+			"longitude": -50.26610947,
+			"altitude": 1562.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Indiaporã",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJEJ",
+		"name": "Fazenda Bonanza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.15500069,
+			"longitude": -49.28777695,
+			"altitude": 1713.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Avaí",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJEH",
+		"name": "Clemente Verillo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.101357,
+			"longitude": -48.226719,
+			"altitude": 2395.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Bonito",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSWH",
+		"name": "Fazenda Agropecuária Rossignolo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.912222,
+			"longitude": -47.823611,
+			"altitude": 2300.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Carlos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSWE",
+		"name": "Fazenda Califórnia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.74388885,
+			"longitude": -50.94749832,
+			"altitude": 1450.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Inúbia Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0001",
+		"name": "Sitio de Voo Tatamborá",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.88750076,
+			"longitude": -45.44639969,
+			"altitude": 500.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ponta da Sela, Ilhabela",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSVY",
+		"name": "Fazenda Três Barras Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.93779945,
+			"longitude": -48.1733017,
+			"altitude": 1575.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pitangueiras",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSVO",
+		"name": "Usina de Monções Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.87166786,
+			"longitude": -50.1269455,
+			"altitude": 1437.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Monções",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSVF",
+		"name": "Rancho Donana Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.960646,
+			"longitude": -49.149356,
+			"altitude": 2257.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cerqueira César",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBDN",
+		"name": "Presidente Prudente Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.17510033,
+			"longitude": -51.42459869,
+			"altitude": 1477.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Presidente Prudente",
+		"size": "medium_airport"
+	},
+	{
+		"id": "BR-0356",
+		"name": "Fazenda Guadiana Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.074271,
+			"longitude": -51.038782,
+			"altitude": 1493.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Martinópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSUZ",
+		"name": "Fazenda Vista Alegre Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.66166687,
+			"longitude": -50.84166718,
+			"altitude": 1322.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sud Menucci",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSUY",
+		"name": "Fazenda Menina Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.64049911,
+			"longitude": -51.47689819,
+			"altitude": 1115.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapura",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSUX",
+		"name": "Usina Mandu Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.48220062,
+			"longitude": -48.37279892,
+			"altitude": 1597.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaíra",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJCO",
+		"name": "Fazenda Aparecida Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.498055,
+			"longitude": -50.101112,
+			"altitude": 1510.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Penápolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJCA",
+		"name": "Comandante Vittorio Bonomi Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.532177,
+			"longitude": -47.04727,
+			"altitude": 2037.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mococa",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSTN",
+		"name": "Alberto Bertelli Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.67861176,
+			"longitude": -48.21194458,
+			"altitude": 2283.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araraquara",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNZY",
+		"name": "Fazenda Bandeira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.00055695,
+			"longitude": -50.59777832,
+			"altitude": 1450.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tupã",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBBU",
+		"name": "Bauru Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.344999,
+			"longitude": -49.053799,
+			"altitude": 2025.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bauru",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBBT",
+		"name": "Chafei Amsei Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.58449936,
+			"longitude": -48.59410095,
+			"altitude": 1898.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Barretos",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SBBP",
+		"name": "Estadual Arthur Siqueira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.979162,
+			"longitude": -46.537508,
+			"altitude": 2887.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bragança Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNZL",
+		"name": "Fazenda Santa Thereza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.567418,
+			"longitude": -49.301448,
+			"altitude": 1401.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Novo Horizonte",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJAW",
+		"name": "Fazenda Citrícola Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.724679,
+			"longitude": -48.377154,
+			"altitude": 2051.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Gavião Peixoto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNZG",
+		"name": "Fazenda São Benedito Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.861232,
+			"longitude": -48.236658,
+			"altitude": 2034.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Capâo Bonito",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJAS",
+		"name": "Fazenda São Roque Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.66916656,
+			"longitude": -49.17305756,
+			"altitude": 1450.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Reginópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJAR",
+		"name": "Fazenda Bela Manhã Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.01860046,
+			"longitude": -50.89920044,
+			"altitude": 1198.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Clara D`Oeste",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1417",
+		"name": "Fazenda Rio Preto Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.37893,
+			"longitude": -50.689537,
+			"altitude": 1604.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guararapes",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBAU",
+		"name": "Araçatuba Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.141479,
+			"longitude": -50.424575,
+			"altitude": 1361.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araçatuba",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SBAQ",
+		"name": "Araraquara Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.812,
+			"longitude": -48.132999,
+			"altitude": 2334.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araraquara",
+		"size": "medium_airport"
+	},
+	{
+		"id": "BR-0326",
+		"name": "Guatambu São Paulo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.621055,
+			"longitude": -48.510232,
+			"altitude": 2182.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Paulo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SD4V",
+		"name": "Socorro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.560973,
+			"longitude": -46.545574,
+			"altitude": 2592.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Socorro",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBAE",
+		"name": "(duplicate) Bauru-Arealva Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": 0.1,
+			"longitude": 0.1,
+			"altitude": 1949.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bauru",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNXI",
+		"name": "Estância Turística de Pereira Barreto Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.62472153,
+			"longitude": -51.08499908,
+			"altitude": 1289.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pereira Barreto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNWM",
+		"name": "Fazenda Bonito Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.38277817,
+			"longitude": -51.19555664,
+			"altitude": 1181.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ilha Solteira",
+		"size": "small_airport"
+	},
+	{
+		"id": "SD2W",
+		"name": "Fazenda Aguapeí Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.212285,
+			"longitude": -50.944467,
+			"altitude": 1489.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Valparaíso",
+		"size": "small_airport"
+	},
+	{
+		"id": "SD2I",
+		"name": "Estância Rancharia Aviação Airstrip",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.175443,
+			"longitude": -50.909067,
+			"altitude": 1617.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rancharia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNVN",
+		"name": "Fazenda Santa Clara Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.305062,
+			"longitude": -50.757018,
+			"altitude": 1503.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rubiácea",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0653",
+		"name": "Aeroagrícola Solo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.447172,
+			"longitude": -48.866511,
+			"altitude": 2152.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Paranapanema",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSOO",
+		"name": "Estância J.D.S Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.33722115,
+			"longitude": -49.54305649,
+			"altitude": 1903.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Fernão",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSOI",
+		"name": "Pederneiras Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.30722237,
+			"longitude": -48.77194214,
+			"altitude": 1788.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pederneiras",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0645",
+		"name": "Condomínio Aeronáutico Santos Dumont Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.065919,
+			"longitude": -47.324478,
+			"altitude": 2146.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Elias Fausto",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0642",
+		"name": "Pontal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.032996,
+			"longitude": -48.010666,
+			"altitude": 1755.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pontal",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSNU",
+		"name": "Santa Isabel Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.24083328,
+			"longitude": -48.02500153,
+			"altitude": 2582.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Brotas",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSNF",
+		"name": "Fazenda Naisa Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.32972145,
+			"longitude": -48.81000137,
+			"altitude": 1739.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Colômbia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSMW",
+		"name": "Ica Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.3152771,
+			"longitude": -47.01388931,
+			"altitude": 49.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Peruibe",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSMV",
+		"name": "Fazenda Boa Vista Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.0425,
+			"longitude": -47.56,
+			"altitude": 2434.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pirassununga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIZQ",
+		"name": "Fazenda Real Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.03611183,
+			"longitude": -48.44055557,
+			"altitude": 3078.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Botucatu",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNTA",
+		"name": "Fazenda São Miguel Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.86861038,
+			"longitude": -50.11639023,
+			"altitude": 1444.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pompéia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIZL",
+		"name": "Fazenda Lagoa",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.747696,
+			"longitude": -49.844977,
+			"altitude": 1909.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Pedro do Turvo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNSX",
+		"name": "Fazenda São Martinho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.357312,
+			"longitude": -51.255308,
+			"altitude": 1148.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ilha Solteira",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIZG",
+		"name": "Fazenda Encontro das Águas Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.607901,
+			"longitude": -48.387901,
+			"altitude": 1631.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Manuel",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1272",
+		"name": "Fazenda Fortaleza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.595859,
+			"longitude": -48.372775,
+			"altitude": 1621.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jaborandi",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0628",
+		"name": "Fazenda Sossego Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.354727,
+			"longitude": -52.674356,
+			"altitude": 1191.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rosana",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSLI",
+		"name": "Estância Portal do Sol Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.165278,
+			"longitude": -47.892778,
+			"altitude": 2425.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itirapina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIYF",
+		"name": "Fazenda Araras Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.30833244,
+			"longitude": -49.08916855,
+			"altitude": 2166.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itaí",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNRN",
+		"name": "Fazenda Vinte de Maio Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.80888939,
+			"longitude": -49.9711113,
+			"altitude": 1509.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Getulina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIXA",
+		"name": "Fazenda União Suzanópolis Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.529893,
+			"longitude": -51.096039,
+			"altitude": 1398.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Suzanópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNQP",
+		"name": "Fazenda São Francisco Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.56749916,
+			"longitude": -50.2303009,
+			"altitude": 1437.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Magda",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0605",
+		"name": "Jorge de Barros Carvalho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.8875,
+			"longitude": -49.891389,
+			"altitude": 1562.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Salto Grande",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0603",
+		"name": "Fazenda Vô Chico Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.31226,
+			"longitude": -50.612413,
+			"altitude": 1539.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jales",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNPN",
+		"name": "Fazenda Água Fria Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.03027725,
+			"longitude": -50.92583466,
+			"altitude": 1378.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Lavínia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNPL",
+		"name": "Fazenda Pacuruxu Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.25638962,
+			"longitude": -51.72888947,
+			"altitude": 1181.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Mercedes",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIVW",
+		"name": "Banaer de Jacupiranga Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.709625,
+			"longitude": -48.022828,
+			"altitude": 89.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jacupiranga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSIY",
+		"name": "Fazenda Santa Adelina Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.528889,
+			"longitude": -49.743333,
+			"altitude": 1411.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaiçara",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSIS",
+		"name": "Major José Ignácio Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.047778,
+			"longitude": -48.097222,
+			"altitude": 1962.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ibaté",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNOW",
+		"name": "Fazenda Turmalina Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.9822216,
+			"longitude": -50.97222137,
+			"altitude": 1378.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Martinópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIVE",
+		"name": "Fazenda Royal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.503631,
+			"longitude": -48.000469,
+			"altitude": 2447.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapetininga",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1232",
+		"name": "Fazenda Bela Vista Airstrip",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.417909,
+			"longitude": -51.893518,
+			"altitude": 896.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Panorama",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0942",
+		"name": "Fazenda Tabaroa Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.7976,
+			"longitude": -49.269128,
+			"altitude": 2149.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Águas de Santa Bárbara",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIUG",
+		"name": "Fazenda Santa Irene Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.496183,
+			"longitude": -51.905572,
+			"altitude": 1116.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sandovalina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZZ",
+		"name": "Sítio São José Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.79777718,
+			"longitude": -48.54388809,
+			"altitude": 1790.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Nova Europa",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0495",
+		"name": "Fazenda Cresciumal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.148482,
+			"longitude": -47.27842,
+			"altitude": 1867.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Leme",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZW",
+		"name": "Fazenda Ipanema Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.81166649,
+			"longitude": -51.29416656,
+			"altitude": 1181.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Andradina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZV",
+		"name": "Fazenda Gandu Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.47611046,
+			"longitude": -49.47000122,
+			"altitude": 1841.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Duartina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZU",
+		"name": "Fazenda Anhumas Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.12249947,
+			"longitude": -52.19777679,
+			"altitude": 1001.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Marabá Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZT",
+		"name": "Fazenda Posses do Rio Grande Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.31083298,
+			"longitude": -48.97694397,
+			"altitude": 1581.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaraci",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZS",
+		"name": "Fazenda Bananeira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.57999992,
+			"longitude": -49.07970047,
+			"altitude": 1673.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Altair",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZR",
+		"name": "Fazenda Cruzeiro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.41222191,
+			"longitude": -48.32860947,
+			"altitude": 2116.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guariba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZM",
+		"name": "Fazenda São Marcos Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.9224,
+			"longitude": -48.818298,
+			"altitude": 2257.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapeva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZH",
+		"name": "Fazenda Santa Helena Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.89039993,
+			"longitude": -45.49330139,
+			"altitude": 1804.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pindamonhangaba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDZA",
+		"name": "Fazenda Santa Maria Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.00555611,
+			"longitude": -49.41110992,
+			"altitude": 1804.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pirajuí",
+		"size": "small_airport"
+	},
+	{
+		"id": "SISP",
+		"name": "Santa Paula Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.70389938,
+			"longitude": -49.39139938,
+			"altitude": 1860.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ipiguá",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDYW",
+		"name": "Itapeva Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.94140053,
+			"longitude": -48.88180161,
+			"altitude": 2320.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapeva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDYN",
+		"name": "Fazenda Esmeralda Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.58888817,
+			"longitude": -51.29888916,
+			"altitude": 1365.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Taciba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDYM",
+		"name": "Limeira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.603889,
+			"longitude": -47.411944,
+			"altitude": 2172.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Limeira",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDYJ",
+		"name": "José Martins da Silva Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.22555542,
+			"longitude": -51.34805679,
+			"altitude": 1663.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Regente Feijó",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSEW",
+		"name": "Sítio Limoeiro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.15,
+			"longitude": -48.31,
+			"altitude": 3084.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pardinho",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDYB",
+		"name": "Fazenda São José do Barreiro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.78527832,
+			"longitude": -48.34000015,
+			"altitude": 2234.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapetininga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSET",
+		"name": "Tambaú Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.69722222,
+			"longitude": -47.31555556,
+			"altitude": 2451.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tambaú",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0117",
+		"name": "Fazenda São Paulo dos Palmares Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.270871,
+			"longitude": -49.546115,
+			"altitude": 2814.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Timburi",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDXU",
+		"name": "Fazenda Araçatuba Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.343332,
+			"longitude": -51.251667,
+			"altitude": 1401.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pacaembu",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNKW",
+		"name": "Fazenda Boa Sorte Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.918889,
+			"longitude": -50.636389,
+			"altitude": 1398.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Iacri",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSEF",
+		"name": "Fazenda Passaredo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.326944,
+			"longitude": -47.231111,
+			"altitude": 4632.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Cajuru",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDXQ",
+		"name": "Fazenda Flamboyant Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.90694427,
+			"longitude": -51.57555771,
+			"altitude": 1112.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Castilho",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDXO",
+		"name": "Fazenda Santa Maria da Mata Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.72750092,
+			"longitude": -50.97166824,
+			"altitude": 1142.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sud Menucci",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNKP",
+		"name": "Conquista do Pontal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.385159,
+			"longitude": -52.110901,
+			"altitude": 1342.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mirante do Paranapanema",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDXE",
+		"name": "Chácara Serradinho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.26479912,
+			"longitude": -48.35609818,
+			"altitude": 2037.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jaboticabal",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWZ",
+		"name": "Palo Verde Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.190584,
+			"longitude": -50.562228,
+			"altitude": 1276.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Araçatuba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIQK",
+		"name": "Nova Odessa Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.781533,
+			"longitude": -47.334557,
+			"altitude": 1909.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Nova Odessa",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWR",
+		"name": "Fazenda Primavera Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.077778,
+			"longitude": -51.144444,
+			"altitude": 1627.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mirandópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1548",
+		"name": "Imagem Aviação Airstrip",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.865278,
+			"longitude": -50.1075,
+			"altitude": 1473.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Monções",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWN",
+		"name": "Fazenda Barreiro Grande Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.34749985,
+			"longitude": -48.77249908,
+			"altitude": 1857.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Colômbia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWL",
+		"name": "Três Marias Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.19166756,
+			"longitude": -47.07500076,
+			"altitude": 2566.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itupeva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWK",
+		"name": "Junqueira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.00166702,
+			"longitude": -47.76750183,
+			"altitude": 1850.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Igarapava",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWH",
+		"name": "Fazenda Avanhandava Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.18860054,
+			"longitude": -49.93610001,
+			"altitude": 1444.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "José Bonifácio",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWG",
+		"name": "Fazenda Itapiranga Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.06305695,
+			"longitude": -51.92472076,
+			"altitude": 1394.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Marabá Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWE",
+		"name": "Usina São Carlos Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.28416634,
+			"longitude": -48.16277695,
+			"altitude": 1919.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jaboticabal",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDWD",
+		"name": "Fazenda Califórnia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.43083382,
+			"longitude": -48.60499954,
+			"altitude": 1856.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Barretos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDVS",
+		"name": "Fazenda Vassoural Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.07279968,
+			"longitude": -48.03419876,
+			"altitude": 1801.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pontal",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIPA",
+		"name": "Aeroclube de São José do Rio Pardo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.647157,
+			"longitude": -46.928262,
+			"altitude": 2849.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São José Do Rio Pardo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDVH",
+		"name": "Fazenda Vale Eldorado Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.00416756,
+			"longitude": -46.63472366,
+			"altitude": 2727.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Atibaia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDVG",
+		"name": "Votuporanga Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.46319962,
+			"longitude": -50.00450134,
+			"altitude": 1667.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Votuporanga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDVE",
+		"name": "Vera Cruz Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.23019981,
+			"longitude": -49.81719971,
+			"altitude": 2100.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Vera Cruz",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDVA",
+		"name": "Fazenda Campo Vitória Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.83222198,
+			"longitude": -46.95555496,
+			"altitude": 2329.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Vargem Grande Do Sul",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDUZ",
+		"name": "Usina São Luiz Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.947486,
+			"longitude": -49.764333,
+			"altitude": 1608.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ourinhos",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0445",
+		"name": "Estancia Irmãos Martins Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.005324,
+			"longitude": -50.49046,
+			"altitude": 1407.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tupã",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDUU",
+		"name": "Usina Califórnia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.91111,
+			"longitude": -50.86833,
+			"altitude": 1476.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Parapuã",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIOC",
+		"name": "Santo Expedito Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.14321,
+			"longitude": -51.544011,
+			"altitude": 1300.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Nova Independência",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDUQ",
+		"name": "Paraguaçu Paulista Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.42690086,
+			"longitude": -50.60689926,
+			"altitude": 1525.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Paraguaçu Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIOB",
+		"name": "Fazenda Guanabara Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.818202,
+			"longitude": -51.266799,
+			"altitude": 1362.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Andradina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SSBC",
+		"name": "Fazenda Barra do Tietê Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.72611,
+			"longitude": -51.588612,
+			"altitude": 1115.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Castilho",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDUL",
+		"name": "Usina Santa Lydia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.20166779,
+			"longitude": -47.92055511,
+			"altitude": 2270.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Preto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNHJ",
+		"name": "Usina de José Bonifácio Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.095,
+			"longitude": -49.914722,
+			"altitude": 1404.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "José Bonifácio",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDUE",
+		"name": "Fazenda Figueira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.51194382,
+			"longitude": -50.12111282,
+			"altitude": 1526.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Penápolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDUD",
+		"name": "Usina Santa Adélia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.33230019,
+			"longitude": -48.31620026,
+			"altitude": 1991.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jaboticabal",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDUB",
+		"name": "Ubatuba Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.44109917,
+			"longitude": -45.07559967,
+			"altitude": 13.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ubatuba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SINK",
+		"name": "Fazenda Negrinha Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.874831,
+			"longitude": -50.8729,
+			"altitude": 1582.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Parapuã",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTY",
+		"name": "Usina São Martinho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.33979988,
+			"longitude": -48.11489868,
+			"altitude": 1713.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pradópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTX",
+		"name": "Fazenda São José Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.5419445,
+			"longitude": -51.35749817,
+			"altitude": 1236.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ilha Solteira",
+		"size": "small_airport"
+	},
+	{
+		"id": "SING",
+		"name": "Fazenda São João Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.556667,
+			"longitude": -49.288334,
+			"altitude": 1739.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Nova Granada",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWYV",
+		"name": "Clube de Marte Ibirá de Pará-Quedismo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.0913887,
+			"longitude": -49.22416687,
+			"altitude": 1591.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ibirá",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTP",
+		"name": "Tupã Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.88909912,
+			"longitude": -50.50510025,
+			"altitude": 1805.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tupã",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTO",
+		"name": "Fazenda Cataco Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.2635994,
+			"longitude": -49.79309845,
+			"altitude": 1447.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ubarana",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTN",
+		"name": "Usina Açucareira Santo Antônio Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.121212,
+			"longitude": -47.947913,
+			"altitude": 1969.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Sertãozinho",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWYO",
+		"name": "Usina Branco Peres Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.4869442,
+			"longitude": -51.02555466,
+			"altitude": 1335.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Adamantina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTI",
+		"name": "Tupi Paulista Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.39305687,
+			"longitude": -51.5988884,
+			"altitude": 1198.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tupi Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTF",
+		"name": "Tatuí Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.33189964,
+			"longitude": -47.87829971,
+			"altitude": 2083.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tatuí",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTE",
+		"name": "Fazenda Tapijara Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.21999931,
+			"longitude": -49.07590103,
+			"altitude": 1929.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Arandu",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDTB",
+		"name": "Atibaia Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.1277771,
+			"longitude": -46.57472229,
+			"altitude": 2592.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Atibaia",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0789",
+		"name": "Domélia Airstrip",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.745532,
+			"longitude": -49.291213,
+			"altitude": 2077.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Agudos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIMK",
+		"name": "Tenente Lund Pressoto Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.592199,
+			"longitude": -47.3829,
+			"altitude": 3292.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Franca",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSV",
+		"name": "Fazenda Santa Cândida Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.32777786,
+			"longitude": -48.17111206,
+			"altitude": 2080.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guariba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDST",
+		"name": "Fazenda Santa Terezinha da Barra Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.88194466,
+			"longitude": -47.7761116,
+			"altitude": 2385.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Carlos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSQ",
+		"name": "Usina Santa Rita Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.72361183,
+			"longitude": -47.65694427,
+			"altitude": 2067.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Rita Do Passa Quatro",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSO",
+		"name": "Fazenda São Geraldo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.00388908,
+			"longitude": -51.81111145,
+			"altitude": 1476.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Piquerobi",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSM",
+		"name": "Fazenda Nossa Senhora da Conceição Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.76472282,
+			"longitude": -48.54249954,
+			"altitude": 2482.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Manuel",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNFN",
+		"name": "Fazenda Santa Fé Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.94,
+			"longitude": -47.87,
+			"altitude": 1739.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jardinópolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSJ",
+		"name": "Fazenda São João Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.74559975,
+			"longitude": -47.93360138,
+			"altitude": 2172.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Orlândia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSH",
+		"name": "Fazenda Sangrilá Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.29555511,
+			"longitude": -49.21222305,
+			"altitude": 1755.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Bauru",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSE",
+		"name": "Sítio Santa Helena Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.47333336,
+			"longitude": -50.61555481,
+			"altitude": 1414.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Gabriel Monteiro",
+		"size": "small_airport"
+	},
+	{
+		"id": "SILT",
+		"name": "Fazenda Trêz Irmãos Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.227777,
+			"longitude": -50.968334,
+			"altitude": 1460.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Fé Do Sul",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSC",
+		"name": "Mário Pereira Lopes–São Carlos Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.875401,
+			"longitude": -47.903703,
+			"altitude": 2649.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Carlos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDSB",
+		"name": "Fazenda São Sebastião Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -19.99583244,
+			"longitude": -47.52388763,
+			"altitude": 1705.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rifaina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWXD",
+		"name": "Aerogardi Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.56111145,
+			"longitude": -48.79861069,
+			"altitude": 1762.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itápolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0418",
+		"name": "Fazenda DIMEP Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.138611,
+			"longitude": -48.495278,
+			"altitude": 2221.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itatinga",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-0414",
+		"name": "Muraro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.185832,
+			"longitude": -47.060518,
+			"altitude": 2411.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itupeva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDRU",
+		"name": "Fazenda Caramuru Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.69388962,
+			"longitude": -50.93611145,
+			"altitude": 1285.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Inúbia Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDRR",
+		"name": "Avaré-Arandu Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.092501,
+			"longitude": -48.987401,
+			"altitude": 2657.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Avaré",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDRK",
+		"name": "Rio Claro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.430104,
+			"longitude": -47.562113,
+			"altitude": 1991.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rio Claro",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIKX",
+		"name": "Fazenda Continental Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.24111176,
+			"longitude": -48.65833282,
+			"altitude": 1476.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Colômbia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDRD",
+		"name": "Adhemar Ribeiro Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.641922,
+			"longitude": -47.469993,
+			"altitude": 2776.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santa Rita Do Passa Quatro",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDRC",
+		"name": "Fazenda Santana Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.18194389,
+			"longitude": -50.86583328,
+			"altitude": 1608.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rancharia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDRA",
+		"name": "Fazenda das Represas Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.87560081,
+			"longitude": -48.05179977,
+			"altitude": 2271.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Miguel Arcanjo",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDQX",
+		"name": "Fazenda Esperança Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.867778,
+			"longitude": -48.805278,
+			"altitude": 2267.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itapeva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDQQ",
+		"name": "Companhia Agrícola de Quatá Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.28610039,
+			"longitude": -50.63890076,
+			"altitude": 1919.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Quatá",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDQG",
+		"name": "Fazenda Nova Floresta Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.89888954,
+			"longitude": -51.18638992,
+			"altitude": 1460.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Caiabu",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIJV",
+		"name": "Fazenda Santa Julieta Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.579521,
+			"longitude": -49.874464,
+			"altitude": 1394.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Promissão",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1042",
+		"name": "Clube de Voo Aeroquadra Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.314218,
+			"longitude": -48.029801,
+			"altitude": 660.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Quadra",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPY",
+		"name": "Pirassununga Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.02638817,
+			"longitude": -47.41944504,
+			"altitude": 2241.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pirassununga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPW",
+		"name": "Piracicaba Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.71150017,
+			"longitude": -47.61819839,
+			"altitude": 1887.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Piracicaba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPV",
+		"name": "Presidente Venceslau Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.8932991,
+			"longitude": -51.88439941,
+			"altitude": 1460.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Presidente Venceslau",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIJG",
+		"name": "Fazenda Jaguaretê Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.443322,
+			"longitude": -50.725465,
+			"altitude": 1290.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guararapes",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPP",
+		"name": "Fazenda Fortaleza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.29299927,
+			"longitude": -48.81439972,
+			"altitude": 1952.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Paranapanema",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPN",
+		"name": "Penápolis Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.40999985,
+			"longitude": -50.03359985,
+			"altitude": 1371.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Penápolis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPG",
+		"name": "Fazenda Progresso Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.05444336,
+			"longitude": -51.40611267,
+			"altitude": 1198.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Andradina",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPD",
+		"name": "Pindamonhangaba Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.94361115,
+			"longitude": -45.43138885,
+			"altitude": 1919.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pindamonhangaba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDPC",
+		"name": "Atena Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.15278,
+			"longitude": -51.02861,
+			"altitude": 1585.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rancharia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDOX",
+		"name": "Fazenda Pixoxó Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.781111,
+			"longitude": -47.884445,
+			"altitude": 2133.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Carlos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIII",
+		"name": "Doutor Heráclito da Motta Luiz Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.433126,
+			"longitude": -48.225367,
+			"altitude": 1798.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guaíra",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIIG",
+		"name": "Eliza Camargo de Arruda Botelho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.359959,
+			"longitude": -51.101661,
+			"altitude": 1756.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Rancharia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDOU",
+		"name": "Ourinhos Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.96649933,
+			"longitude": -49.91329956,
+			"altitude": 1532.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ourinhos",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDOR",
+		"name": "Fazenda Mosquito Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.7472229,
+			"longitude": -47.88972092,
+			"altitude": 2415.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Orlândia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDOI",
+		"name": "Centro Nacional de Pára-quedismo Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.29805565,
+			"longitude": -47.69194412,
+			"altitude": 2051.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Boituva",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIHW",
+		"name": "Agrishow Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.211237,
+			"longitude": -47.865781,
+			"altitude": 1952.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Ribeirão Preto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDOB",
+		"name": "Fazenda São José \"OB\" Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.42519951,
+			"longitude": -46.75429916,
+			"altitude": 2585.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tapiratiba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWTG",
+		"name": "Fazenda Santa Marina Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.847244,
+			"longitude": -50.788229,
+			"altitude": 1126.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Santo Antônio do Aracanguá",
+		"size": "small_airport"
+	},
+	{
+		"id": "SNAX",
+		"name": "Marcelo Pires Halzhausen Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.64,
+			"longitude": -50.453056,
+			"altitude": 1850.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Assis",
+		"size": "small_airport"
+	},
+	{
+		"id": "SJZW",
+		"name": "Fazenda Regina Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.288179,
+			"longitude": -48.737621,
+			"altitude": 2044.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itatinga",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDNO",
+		"name": "São Manuel Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.69580078,
+			"longitude": -48.57659912,
+			"altitude": 2395.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Manuel",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDNL",
+		"name": "Fazenda São Francisco do Itaquerê Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.763774,
+			"longitude": -48.582466,
+			"altitude": 1877.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Nova Europa",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDNJ",
+		"name": "Nascimento II Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -24.07472229,
+			"longitude": -48.22472382,
+			"altitude": 2604.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Capão Bonito",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDNI",
+		"name": "Nascimento I Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.61972237,
+			"longitude": -46.98361206,
+			"altitude": 3090.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Vargem Grande Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDNH",
+		"name": "Novo Horizonte Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.49780083,
+			"longitude": -49.2344017,
+			"altitude": 1526.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Novo Horizonte",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDNE",
+		"name": "Fazenda São Joaquim Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.19944382,
+			"longitude": -51.97360992,
+			"altitude": 1585.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Marabá Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDND",
+		"name": "Fazenda Nova Damasco Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.48277855,
+			"longitude": -51.53027725,
+			"altitude": 1411.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Narandiba",
+		"size": "small_airport"
+	},
+	{
+		"id": "SIGT",
+		"name": "Fazenda Goiabeira Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -23.989445,
+			"longitude": -49.179169,
+			"altitude": 2260.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Itaberá",
+		"size": "small_airport"
+	},
+	{
+		"id": "BR-1379",
+		"name": "Central Ferraz Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.868902,
+			"longitude": -50.308953,
+			"altitude": 1634.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Herculândia",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDMY",
+		"name": "Fazenda Cambuhy Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.63290024,
+			"longitude": -48.47909927,
+			"altitude": 2008.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Matão",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDMV",
+		"name": "Fazenda Morro Vermelho Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.2772007,
+			"longitude": -48.60449982,
+			"altitude": 1736.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Jaú",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDMO",
+		"name": "Monte Alto Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.25898129,
+			"longitude": -48.52360725,
+			"altitude": 2461.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Monte Alto",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDML",
+		"name": "Plataforma Merluza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -25.26689911,
+			"longitude": -45.25279999,
+			"altitude": 0.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "São Sebastião",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDMJ",
+		"name": "Mogi Mirim Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.40999985,
+			"longitude": -46.90530014,
+			"altitude": 2274.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mogi Mirim",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDMH",
+		"name": "Mirassol Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.80719948,
+			"longitude": -49.48609924,
+			"altitude": 1916.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Mirassol",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDME",
+		"name": "Marchesan S.A. Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.63059998,
+			"longitude": -48.39289856,
+			"altitude": 1942.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Matão",
+		"size": "small_airport"
+	},
+	{
+		"id": "SBYS",
+		"name": "Campo Fontenelle",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.984692,
+			"longitude": -47.341207,
+			"altitude": 1968.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Pirassununga",
+		"size": "medium_airport"
+	},
+	{
+		"id": "SDMA",
+		"name": "Fazenda Maristela Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.95416641,
+			"longitude": -45.6016655,
+			"altitude": 1804.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Tremembé",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDLY",
+		"name": "Matão Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.62310028,
+			"longitude": -48.35250092,
+			"altitude": 2083.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Matão",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDLU",
+		"name": "Fazenda Santa Luíza Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.48310089,
+			"longitude": -48.5245018,
+			"altitude": 1782.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Barra Bonita",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDLR",
+		"name": "Fazenda Sonho Dourado Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -20.46722221,
+			"longitude": -50.14222336,
+			"altitude": 1722.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Valentim Gentil",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDLQ",
+		"name": "Fazenda Perobal Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.50361061,
+			"longitude": -50.7780571,
+			"altitude": 1339.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Guararapes",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDLP",
+		"name": "Lençóis Paulista Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.57839966,
+			"longitude": -48.77460098,
+			"altitude": 2039.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Lençóis Paulista",
+		"size": "small_airport"
+	},
+	{
+		"id": "SDLL",
+		"name": "Leme Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -22.2269001,
+			"longitude": -47.38219833,
+			"altitude": 2024.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Leme",
+		"size": "small_airport"
+	},
+	{
+		"id": "SWQP",
+		"name": "Rio Vermelho Açucar e Álcool Airport",
+		"type": "AIRPORT",
+		"position": {
+			"latitude": -21.3152771,
+			"longitude": -51.36999893,
+			"altitude": 1148.0
+		},
+		"country": "BR",
+		"state": "SP",
+		"municipality": "Junqueirópolis",
+		"size": "small_airport"
+	}
+]

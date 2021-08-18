@@ -1,0 +1,19 @@
+.total-plans {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-left: 20px;
+  border: 1px solid #85bcc7;
+}
+
+.total-plans h3 {
+  color: #054653;
+  padding: 5px;
+  text-align: center;
+}
+
+.total-plans a {
+  text-decoration: none;
+}

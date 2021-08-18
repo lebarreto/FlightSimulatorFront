@@ -1,0 +1,12 @@
+.aircraft-plans {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+h2 {
+  padding: 40px;
+  text-align: center;
+}

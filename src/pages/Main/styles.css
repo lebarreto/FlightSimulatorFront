@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.map-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  max-height: 780px;
+}
+
+.planned-rpas {
+  border: 1px solid #85bcc7;
+  padding: 5px;
+  overflow-y: auto;
+  margin-bottom: 40px;
+  max-height: 400px;
+  width: 400px;
+}
+
+.plans {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  border: 1px solid #09768d;
+  margin-top: 5px;
+}
+
+.plans p {
+  margin: 5px;
+}
+
+#page-map {
+  width: 150vh;
+  height: 95vh;
+}
+
+#page-map .leaflet-container {
+  z-index: 0;
+}
