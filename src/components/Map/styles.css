@@ -1,31 +1,28 @@
 #page-map .leaflet-container {
-    z-index: 0;
+  z-index: 0;
 }
 
-/* Pop Up - Marker */
-
 #page-map .map-popup .leaflet-popup-content-wrapper {
-    background: rgba(255, 255, 255, 0.8);
-    border-radius: 20px;
-    box-shadow: none;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  box-shadow: none;
 }
 
 #page-map .map-popup .leaflet-popup-content h3 {
-    color: #09768d;
-    font-size: 20px;
-    font-weight: bold;
-    margin: 8px 12px;
+  color: #09768d;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 8px 12px;
 }
 
 #page-map .map-popup .leaflet-popup-content p {
-    color: #054653;
-    font-size: 12px;
-    font-weight: bold;
-    margin: 8px 12px;
-    line-height: 15px;
+  color: #054653;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 8px 12px;
+  line-height: 15px;
 }
 
 #page-map .map-popup .leaflet-popup-tip-container {
-    display: none;
+  display: none;
 }
-  

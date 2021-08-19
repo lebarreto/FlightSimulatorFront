@@ -89,8 +89,6 @@ const Map: React.FC<IProps> = (props: IProps) => {
         drones,
     } = props;
 
-    console.log(drones, "++++++");
-
     return (
         <>
             <MapContainer
@@ -98,19 +96,13 @@ const Map: React.FC<IProps> = (props: IProps) => {
                 zoom={15}
                 style={{ maxWidth: "100%", height: "100%" }}
             >
-                {/* <TileLayer
-                    url={`https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/256/{z}/{x}/{y}@2x?access_token=${process.env.REACT_APP_ACCESS_TOKEN_MAP_BOX}`}
-                /> */}
                 <TileLayer
+                    url={`https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/256/{z}/{x}/{y}@2x?access_token=${process.env.REACT_APP_ACCESS_TOKEN_MAP_BOX}`}
+                />
+                {/* <TileLayer
                     attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                />
-                {/* {position && (
-                    <Marker
-                    icon={mapPinIcon}
-                    position={[position.latitude, position.longitude]}
-                    ></Marker>
-                )} */}
+                /> */}
                 {!uasOpacity &&
                     uasPort.map((uas) => (
                         <Marker

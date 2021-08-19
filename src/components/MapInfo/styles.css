@@ -1,8 +1,4 @@
 .grid {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 600px;
   background-color: #fff;
   padding: 5px;
@@ -38,8 +34,4 @@ p {
   width: 400px;
   overflow-y: auto;
   overflow-x: auto;
-}
-
-.rpas-table {
-  /* background-color: #e0f0f4; */
 }

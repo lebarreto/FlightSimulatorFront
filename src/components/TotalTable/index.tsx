@@ -12,7 +12,6 @@ import "./styles.css";
 import { Link } from "react-router-dom";
 
 interface IProps {
-    // name: string;
     running: number;
     waiting: number;
     ended: number;
@@ -25,7 +24,6 @@ const TotalTable: React.FC<IProps> = (props: IProps) => {
     return (
         <div className="total-plans">
             <Link to={link}>
-                {/* <h3>{name}</h3> */}
                 <TableContainer component={Paper}>
                     <Table className="total-table" aria-label="simple table">
                         <TableHead>

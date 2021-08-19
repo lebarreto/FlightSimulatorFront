@@ -1,35 +1,19 @@
 import React, { useEffect, useState } from "react";
 import moment from "moment";
 
+import "./styles.css";
 import Map from "../../components/Map";
 import { IPort, IPlans } from "../../utils/interfaces";
-import "./styles.css";
-
 import utmPort from "../../json/utmports.json";
 import heliports from "../../json/heliports.json";
 import airports from "../../json/airports.json";
-// import airPlans from "../../json/aircraft_plans.json";
 import uasPlans from "../../json/uas_plans.json";
-
-// import TotalTable from "../../components/TotalTable";
 import Header from "../../components/Header";
 import MapInfo from "../../components/MapInfo";
 
 const initialPosition = { lat: -23.563350340256694, lng: -46.63079920174874 };
-// const aircraftPlansColumns = [
-//     { field: "Code" },
-//     { field: "Type" },
-//     { field: "Departure Location Lat" },
-//     { field: "Departure Location Lng" },
-//     { field: "Arrival Location Lat" },
-//     { field: "Arrival Location Lat" },
-// ];
-// const { CanvasJS } = CanvasJSReact;
-// const { CanvasJSChart } = CanvasJSReact;
 
 const Main: React.FC = () => {
-    // const [index, setIndex] = useState(0);
-
     const [aerSmallOpacity, setAerSmallOpacity] = useState(false);
     const [aerMedOpacity, setAerMedOpacity] = useState(false);
     const [aerLargOpacity, setAerLargOpacity] = useState(false);
@@ -45,7 +29,6 @@ const Main: React.FC = () => {
     const [airportMed, setAirportMed] = useState<IPort[]>([]);
     const [airportLarg, setAirportLarg] = useState<IPort[]>([]);
     const [drones] = useState<IPort[]>([]);
-    // const [aircraftPlans, setAircraftPlans] = useState<IAircraftPlans[]>([]);
     const [rpasPlans, setRpasPlans] = useState<IPlans[]>([]);
 
     const [location] = useState(initialPosition);
@@ -65,11 +48,6 @@ const Main: React.FC = () => {
         setAirportMed(medAirports);
         setAirportLarg(largAirports);
     };
-
-    // const handleDronePosition = () => {
-    //   setIndex(index + 1)
-    //   setDrones([utmPort[index]]);
-    // }
 
     const handleCurrentTime = () => {
         setRpasPlans(uasPlans);
